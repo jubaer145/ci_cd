@@ -1,8 +1,3 @@
-import scipy
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-
 """Function to solve the fizzbuzz problem."""
 
 
