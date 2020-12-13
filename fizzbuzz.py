@@ -1,11 +1,11 @@
 import scipy
 import pandas as pd
 import numpy as np
-
-
 import matplotlib.pyplot as plt
 
 """Function to solve the fizzbuzz problem."""
+
+
 def fizz_buzz(num: int) -> str:
     """This is my great and neat function to solve the famous
     Fizz Buzz problem.
